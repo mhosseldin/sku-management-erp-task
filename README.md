@@ -75,7 +75,7 @@ npm run build
 ## Project Structure
 
 ```
-sku-management-app/
+sku-management-erp-task/
 ├── public/               # Static assets
 ├── src/
 │   ├── assets/           # Application assets
