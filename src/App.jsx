@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { CssBaseline, ThemeProvider, createTheme } from '@mui/material';
 import { AppProvider } from './contexts/AppContext';
 
-// Import components
+// Import components //
 import Layout from './components/common/Layout';
 import Dashboard from './components/Dashboard';
 import BranchSetup from './components/inventory/BranchSetup';
